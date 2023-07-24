@@ -1,0 +1,17 @@
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/burst-llvm-14.dll filter=lfs diff=lfs merge=lfs -text
+C:/Users/Kennedy/DietDigital/Library filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/hostmac/dsymutilll filter=lfs diff=lfs merge=lfs -text
+warning: filter=lfs diff=lfs merge=lfs -text
+File filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+remote: filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/60/6002f5ffdc0e14eedbdcc60858805079 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/74/749d3e939ce9770b5f655b443c562008 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/c0/c002bbf6cbffb063becc55b3e96d767f filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/c0/c04b12d607dcc3e9072869026c0c9f6a filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.so filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/46/462f3fc55b926df9031eb30bc83a66c3 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/69/69b1e478607e281a8ff8fd880dfb3213 filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text

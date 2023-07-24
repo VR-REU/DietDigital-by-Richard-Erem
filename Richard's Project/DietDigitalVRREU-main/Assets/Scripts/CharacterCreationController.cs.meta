@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b96e58a148ba0f49802e2f207974382
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maleCharacter: {instanceID: 0}
+  - femaleCharacter: {instanceID: 0}
+  - maleButton: {instanceID: 0}
+  - femaleButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
